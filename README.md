@@ -1,19 +1,19 @@
 # Strategic Workforce Analytics Dashboard
 
 ## Executive Summary
-The **Strategic Workforce Analytics Dashboard** is an end-to-end data analytics solution designed to evaluate corporate workforce dynamics, employee turnover drivers, and retention risks. Built using **MySQL Workbench** for backend data structuring and **Microsoft Power BI** for advanced interactive visualization, this dashboard provides human resources leadership and corporate executives with deep, data driven insights into employee attrition patterns across a dataset of **10,000 employees**
+The **Strategic Workforce Analytics Dashboard** is an end-to-end data analytics solution designed to evaluate corporate workforce dynamics, employee turnover drivers, and retention risks. Built using **MySQL Workbench** for backend data structuring and **Microsoft Power BI** for advanced interactive visualization, this dashboard provides human resources leadership and corporate executives with deep, data driven insights into employee attrition patterns across a dataset of **10,000 employees**.
 
 ---
 
 ## Tech Stack & Tools
-* **Database & Querying:** MySQL Workbench (Data Modeling, Schema Design, Aggregation Queries)
-* **Visualization & BI:** Microsoft Power BI Desktop
-* **Data Processing:** Power Query, DAX (Data Analysis Expressions)
+* **Database & Querying:** MySQL Workbench (Data Modeling, Schema Design, Aggregation Queries).
+* **Visualization & BI:** Microsoft Power BI Desktop.
+* **Data Processing:** Power Query, DAX (Data Analysis Expressions).
 
 ---
 
 ## Key Performance Indicators (KPI Cards)
-The top section of the dashboard highlights high level organizational metrics, giving executives an immediate snapshot of workforce health:
+The top section of the dashboard highlights high level organizational metrics, giving executives an immediate snapshot of workforce health.
 * **Total Employees (10,000):** Represents the entire organizational headcount tracked within the scope.
 * **Active Employees (7,753):** Tracks the current active workforce (Attrition = No) currently serving the organization.
 * **Total Attrition (2,247):** Measures the absolute number of employees who have exited the organization.
